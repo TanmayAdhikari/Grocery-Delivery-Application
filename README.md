@@ -42,14 +42,12 @@ This project is a comprehensive full-stack web application developed for online 
 - Developed as part of the internship at **Next24tech Technology & Services**.
 
 
-![Home Page](https://github.com/varun-chandola/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210515.png)
+![Home Page]([https://github.com/varun-chandola/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210515.png](https://github.com/TanmayAdhikari/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210515.png))
 
-![Available](https://github.com/varun-chandola/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210644.png)
+![Available]([https://github.com/varun-chandola/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210644.png](https://github.com/TanmayAdhikari/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210644.png))
 
-![Promo](https://github.com/varun-chandola/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210726.png)
+![Promo]([https://github.com/varun-chandola/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210726.png](https://github.com/TanmayAdhikari/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210726.png))
 
-![Signup](https://github.com/varun-chandola/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210803.png)
+![Signup]([https://github.com/varun-chandola/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210803.png](https://github.com/TanmayAdhikari/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20210726.png))
 
-![Cart](https://github.com/varun-chandola/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20211313.png)
-
-![User Profile](https://github.com/varun-chandola/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20211340.png)
+![Cart]([https://github.com/varun-chandola/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20211313.png](https://github.com/TanmayAdhikari/Grocery-Delivery-Application/blob/main/Screenshots/Screenshot%202024-08-30%20211313.png))
